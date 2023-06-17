@@ -1,4 +1,4 @@
-package ChapterSeven;
+package arrayPractices;
 
 import java.nio.file.DirectoryNotEmptyException;
 import java.util.ArrayList;
@@ -7,6 +7,7 @@ public class MyArrayList {
     public static void main(String[] args) {
         ArrayList<String> items = new ArrayList<>();
         items.add("Jerry");
+//        items.get()
         items.add("inem");
         items.add("zaza");
         items.add("kinzy") ;
